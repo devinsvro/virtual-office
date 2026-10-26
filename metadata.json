@@ -1,0 +1,6 @@
+{
+  "name": "ClinicaAI Virtual Office Portal",
+  "description": "Clinical virtual-office portal orchestrating six specialized healthcare AI agents for patient feedback, experience monitoring, complaint triage, managerial decision support, executive healthcare analytics, and rescheduling urgency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
